@@ -1,0 +1,5 @@
+[{
+  "file": "/Users/jaypisharath/Documents/CPPPrograms/Autocorrelation_StreamingData/Release2_AutoCorrelation/Autocorrelation_StreamData/main.cpp",
+  "directory": "/Users/jaypisharath/Documents/CPPPrograms/Autocorrelation_StreamingData/Release2_AutoCorrelation/Autocorrelation_StreamData",
+  "command": "clang  -c /Users/jaypisharath/Documents/CPPPrograms/Autocorrelation_StreamingData/Release2_AutoCorrelation/Autocorrelation_StreamData/main.cpp -o /Users/jaypisharath/Documents/CPPPrograms/Autocorrelation_StreamingData/Release2_AutoCorrelation/Autocorrelation_StreamData/main.cpp.o  -I. -I.  -g  -O0  -Wall"
+ }]
